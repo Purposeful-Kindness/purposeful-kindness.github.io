@@ -1,5 +1,10 @@
-tilte: Welcome to Purposeful Kindness
-date: 2023-01-06
+---
+layout: post
+title:  "Welcome to Purposeful Kindness"
+author: dan
+categories: [ team ]
+image: assets/images/14.jpg
+---
 
 # Welcome to Purposeful Kindness
 
