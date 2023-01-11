@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Purposeful Kindness Blog
 permalink: /about
-comments: true
+comments: false
 ---
 
 In this blog I will strive to deliver AI augmented discourse towards the following 3 goals:
